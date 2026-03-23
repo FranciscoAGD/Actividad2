@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def multuplicacion(a,b):
     return a * b
 
@@ -11,3 +12,11 @@ def suma ():
 
 if __name__ == '__main__':
     suma()
+=======
+def restar(a, b):
+    return a - b
+
+if __name__ == "__main__":
+    resultado = restar(15, 6)
+    print("El resultado de la resta es:", resultado)
+>>>>>>> origin/resta
